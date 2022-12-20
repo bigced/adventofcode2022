@@ -6,6 +6,8 @@ authors = ["Cédric Roy <cecric.roy@broadsign.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8.1"
+numpy = "^1.24.0"
+networkx = "^2.8.8"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
